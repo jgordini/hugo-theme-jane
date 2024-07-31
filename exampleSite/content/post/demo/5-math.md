@@ -15,7 +15,6 @@ katex: true
 
 # Use Mmark
 # See https://github.com/mmarkdown/mmark
-markup: mmark
 
 menu:
   main:
